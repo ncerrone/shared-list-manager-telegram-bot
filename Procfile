@@ -1,0 +1,1 @@
+worker: python shared-list-manager.py

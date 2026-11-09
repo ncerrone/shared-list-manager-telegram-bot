@@ -1,0 +1,7 @@
+start - Avvia il bot
+help - Mostra la guida
+film - Gestisci la lista di film condivisi
+info - Informazioni sul servizio
+contatti - Mostra i contatti
+next - Mostra i prossimi rilasci intermedi
+requests - Proposte per nuove funzionalità
